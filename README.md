@@ -1,0 +1,2 @@
+# Vega
+A minimalistic kernel
